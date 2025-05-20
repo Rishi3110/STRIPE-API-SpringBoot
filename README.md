@@ -12,9 +12,6 @@ This is a simple eCommerce platform built using **Spring Boot** for the backend,
 - [Testing the Payment Flow](#testing-the-payment-flow)
 - [Project Structure](#project-structure)
 - [Key Components](#key-components)
-- [Production Considerations](#production-considerations)
-- [License](#license)
-
 ---
 
 ## Project Overview 📦
