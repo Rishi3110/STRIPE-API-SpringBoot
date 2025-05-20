@@ -3,15 +3,6 @@
 
 This is a simple eCommerce platform built using **Spring Boot** for the backend, with a frontend designed using **HTML**, **CSS**, and **JavaScript**. The platform allows users to browse products, add them to the cart, and process payments securely through the **Stripe API**.
 
-## Table of Contents 📚
-
-- [Project Overview](#project-overview)
-- [Prerequisites](#prerequisites)
-- [Setup Instructions](#setup-instructions)
-- [How to Use](#how-to-use)
-- [Testing the Payment Flow](#testing-the-payment-flow)
-- [Project Structure](#project-structure)
-- [Key Components](#key-components)
 ---
 
 ## Project Overview 📦
