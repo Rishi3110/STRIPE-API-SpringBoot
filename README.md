@@ -125,4 +125,4 @@ Once the application is running, you can access it via your browser.
 
 If you'd like to contribute to the project, feel free to submit pull requests or open issues. Contributions are always welcome!
 
-Thank you for checking out this simple eCommerce platform! 😊 Happy coding! 🚀
+
